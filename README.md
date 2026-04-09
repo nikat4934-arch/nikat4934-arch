@@ -2,6 +2,7 @@
 
 ## I'm a new in Frontend. Give me luck!
 
-Languages and Tools
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/-Flutter-blue?https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 Follow Me
